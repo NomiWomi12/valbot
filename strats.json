@@ -86,8 +86,8 @@
            "team":"any"
        },
        {
-           "title":"Odin rush",
-           "description":"If your team has the funds to support this, every player must buy an Odin and rush the enemy team as a group, doesn't matter if you are attacking or defending. Buy an Ares if you can't afford an Odin and if any player can't get an ares, then everyone must buy the most expensive gun everyone on the team can afford.",
+           "title":"Frency rush",
+           "description":"If your team has the funds to support this, every player must buy an frenzy and rush the enemy team as a group, doesn't matter if you are attacking or defending.",
            "team":"any"
        },
        {
@@ -103,7 +103,7 @@
        {
            "title":"The fakeout",
            "description":"Each teammate must buy every ability that they possibly can. Rush towards one of the sites, and use all of your abilities as fast as you can on the site. Then quickly retreat and plant the spike at a different site.",
-           "team":"any"
+           "team":"a"
        },
        {
            "title":"Sound effects",
@@ -138,27 +138,22 @@
        {
            "title":"Up close and personal",
            "description":"Each member of the team can only buy a Shorty or Bucky. Everyone must hide on the bombsites holding close range angles.",
-           "team":"any"
+           "team":"d"
        },
        {
            "title":"Retakes are fun",
            "description":"Your whole team must hide in spawn until the spike has been planted. You are then allowed to leave spawn and play normally.",
-           "team":"any"
-       },
-       {
-           "title":"Smoke break",
-           "description":"Your whole team must start the round in Hookah and hold it for as long as possible. You may only leave if the spike has been planted.",
-           "team":"any"
+           "team":"d"
        },
        {
            "title":"Intimidation",
            "description":"Each teammate must buy every ability that they possibly can. Rush mid and use every single ability before eventually taking B site.",
-           "team":"any"
+           "team":"a"
        },
        {
            "title":"Tourists",
            "description":"Every teammate must visit each spikesite at least once before you are allowed to plant. Try to not kill the entire enemy team before planting.",
-           "team":"any"
+           "team":"a"
        },
        {
            "title":"Fnatic on Inferno",
@@ -190,6 +185,11 @@
            }
        ],
        "bind":[
+           {
+               "title":"Smoke break",
+               "description":"Your whole team must start the round in Hookah and hold it for as long as possible. You may only leave if the spike has been planted.",
+               "team":"d"
+       },
            {
                "title":"Woah a teleporter",
                "description":"Everyone on your team must have used a teleporter at least 3 times each before you are allowed to plant the spike.",
